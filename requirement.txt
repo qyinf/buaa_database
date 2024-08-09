@@ -1,0 +1,3 @@
+Django==3.2.7
+PyMySQL==1.0.2
+PyJwt==1.7.1

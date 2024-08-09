@@ -1,0 +1,31 @@
+.idea
+
+# back ignore
+back/database/.idea
+back/food/__pycache__
+back/back/__pycache__
+back/static
+
+# bcc ignore
+bcc/.DS_Store
+bcc/node_modules
+bcc/dist
+
+# local env files
+bcc/.env.local
+bcc/.env.*.local
+
+# Log files
+bcc/npm-debug.log*
+bcc/yarn-debug.log*
+bcc/yarn-error.log*
+bcc/pnpm-debug.log*
+
+# Editor directories and files
+bcc/.idea
+bcc/.vscode
+front/*.suo
+front/*.ntvs*
+front/*.njsproj
+front/*.sln
+front/*.sw?

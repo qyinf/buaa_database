@@ -1,0 +1,10 @@
+1	麻辣香锅	346	http://localhost:8000/static/1.jpg	2	1	15	10	2	最北侧窗口	1	8
+2	醋溜绿豆芽	65	http://localhost:8000/static/2.jpg	1	1	1	10	5	进门第一个窗口	2	5
+3	奥尔良鸡腿	169	http://localhost:8000/static/3.jpg	1	1	6	50	3	进门第二个窗口	2	47
+4	烧鸭饭	320	http://localhost:8000/static/4.jpg	1	2	14	30	10	最西侧窗口	2	20
+5	小火锅	355	http://localhost:8000/static/5.jpg	3	2	15	12	6	二楼北侧	1	6
+6	烤鸭套餐	379	http://localhost:8000/static/6.jpg	3	3	17	14	7	进门右手边	2	7
+7	香菇鸡肉馄饨	233	http://localhost:8000/static/7.jpg	1	2	10	25	4	进门第一个窗口	1	21
+8	木须肉	121	http://localhost:8000/static/8.jpg	1	1	8	25	4	进门第四个窗口	2	21
+9	酸汤肥牛	106	http://localhost:8000/static/9.jpg	1	1	10	13	3	汤类窗口	1	10
+10	羊杂套餐	122	http://localhost:8000/static/10.jpg	2	1	9	8	7	左手第二个窗口	2	1
